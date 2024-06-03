@@ -1,2 +1,2 @@
 # codealpha_tasks
-Repositroy of code aloha intership task
+Repositroy of code alpha intership task
